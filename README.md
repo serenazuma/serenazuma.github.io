@@ -26,11 +26,11 @@
 ## Solved Problems
 
 - [x] original template's navigate bar link dont work
-- [x] hash route of ```<a href="#"></a>``` link may cause url massive ( change to javascript scroll )
+- [x] hash route of ```<a href="#"></a>``` link may make the url a mess ( change to javascript scroll )
 
 ## Unsolved Problems
 
 - [ ] animation mistake may happen if Top Bar is sticky ( now css of Top Bar is position:absolute instead of position:fixed )
 
-## contact
+## Contact
 azumaserenATgamil.com (AT -> @)
